@@ -6,7 +6,7 @@
   "dependencies": {
     "component/jquery" : "*",
     "virtru-components/bootstrap" : "3.0.0",
-		"component/moment": "2.0.0"
+    "component/moment": "2.0.0"
   },
   "main": [
   	"lib/js/bootstrap-datetimepicker.min.js"
