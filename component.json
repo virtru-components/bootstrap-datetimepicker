@@ -9,6 +9,6 @@
     "virtru-components/moment": "2.0.0"
   },
   "main": [
-  	"lib/js/bootstrap-datetimepicker.min.js"
+  	"bootstrap-datetimepicker.js"
   ]
 }
