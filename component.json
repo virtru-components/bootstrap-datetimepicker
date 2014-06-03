@@ -2,11 +2,11 @@
   "name": "bootstrap-datetimepicker",
   "repo": "virtru-components/bootstrap-datetimepicker",
   "description": "A collection of plugins for jquery",
-  "version": "2.1.32",
+  "version": "2.1.33",
   "dependencies": {
-    "component/jquery" : "*",
-    "virtru-components/bootstrap" : "3.0.0",
-    "component/moment": "2.0.0"
+    "components/jquery" : "2.1.0",
+    "virtru-components/bootstrap" : "3.0.2",
+    "virtru-components/moment": "2.0.0"
   },
   "main": [
   	"lib/js/bootstrap-datetimepicker.min.js"
